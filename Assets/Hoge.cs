@@ -7,7 +7,7 @@ public class Hoge : MonoBehaviour {
 	public Text text;
 	// Use this for initialization
 	void Start () {
-		Text.text = "Hello GitHub";
+		text.text = "Hello GitHub";
 	}
 	
 	// Update is called once per frame
